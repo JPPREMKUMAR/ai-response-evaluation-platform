@@ -1,0 +1,5 @@
+[
+  {"id":"date-001","topic":"factuality","prompt":"What date is New Year's Day in the Gregorian calendar? Answer in one sentence.","response_a":"New Year's Day is January 1 in the Gregorian calendar.","response_b":"New Year's Day is January 2, according to the Gregorian calendar."},
+  {"id":"constraint-001","topic":"instruction-following","prompt":"Give exactly two bullet points about password hygiene and include one caution.","response_a":"- Use a unique password for each account.\n- Store passwords in a reputable password manager; protect it with MFA.","response_b":"Use a unique password and a password manager. This is the only security measure you need."},
+  {"id":"ambiguous-001","topic":"ambiguity","prompt":"Which response is better?","response_a":"I need the evaluation criteria to compare them.","response_b":"Response A is better."}
+]
