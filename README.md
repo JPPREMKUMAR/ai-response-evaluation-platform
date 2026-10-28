@@ -15,7 +15,7 @@ This is an independent portfolio project. It is not affiliated with Handshake or
 - [x] Search/filter, disagreement review, and adjudication notes
 - [x] Local API smoke check for import, evaluation, disagreement, adjudication, and CSV export
 - [ ] Deployment
-- [ ] GitHub publication
+- [x] Published project files to https://github.com/JPPREMKUMAR/ai-response-evaluation-platform (snapshot of local `main`; local commit history is not mirrored)
 
 ## Requirements and architecture
 
@@ -80,3 +80,4 @@ See [`docs/requirements.md`](docs/requirements.md) for MVP acceptance criteria, 
 ## License
 
 MIT License. See `LICENSE`.
+
